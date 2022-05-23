@@ -1,4 +1,4 @@
-# bcbs_bogibee
+# bogibee_assignment
 
 This repo has 4 sections (4 python notebooks) and a data folder.
 
