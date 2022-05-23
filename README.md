@@ -2,8 +2,8 @@
 
 This repo has 4 sections (4 python notebooks) and a data folder.
 
-1. Data Load and Exploratory Analysis { html files needs to be rendered using the link below}
-2. Logistic regression models
+1. Data Load and Exploratory Analysis {html files needs to be rendered using the link below}
+2. Logistic Regression Models {using a couple of imputation techniques}
 3. Model Validation
 4. Advanced Models
    Light GBM
