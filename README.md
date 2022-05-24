@@ -7,7 +7,7 @@ This repo has 4 sections (4 python notebooks) and a data folder.
 3. Model Validation
 4. Advanced Models
    Light GBM
-   Random Forest Regression
+   Random Forest 
    
 Summary: F1 Score has been chosen as a metric - Random forest model post hyper parameter tuning has the best F1 score in my current sprint. 
 
